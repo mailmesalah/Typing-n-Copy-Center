@@ -1,0 +1,13 @@
+Check All pendrive Connections especially Purchase
+
+check purchase
+
+add first , next , previous,last  buttons on loclasales,Taxbills
+
+Check PurchaseReturn,Sales Return
+
+Quantity Updation doesnot working,on Sales
+
+Check Readonly Groups And Read Accounts
+
+PartNO wise Seraching on purchase
